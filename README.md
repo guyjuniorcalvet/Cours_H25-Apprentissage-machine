@@ -81,28 +81,6 @@ Exactitude (accuracy)
 
 Temps d’entraînement
 
-⚙️ Installation et exécution
-1. Cloner le dépôt
-bash
-Copier
-Modifier
-git clone https://github.com/ton-utilisateur/8IAR403-projet-session.git
-cd 8IAR403-projet-session
-2. Créer un environnement virtuel (recommandé)
-bash
-Copier
-Modifier
-python -m venv env
-source env/bin/activate     # Sur Linux/Mac
-env\Scripts\activate.bat    # Sur Windows
-3. Installer les dépendances
-bash
-Copier
-Modifier
-pip install -r requirements.txt
-4. Lancer les notebooks
-Tu peux ouvrir les fichiers .ipynb avec JupyterLab, Google Colab, ou VSCode avec l’extension Python.
-
 📦 Technologies utilisées
 Python (>=3.9)
 
@@ -115,7 +93,7 @@ TensorFlow, Keras
 Jupyter Notebook
 
 👨‍🎓 Auteur
-Nom : [Ton nom complet ici]
+Nom : Guy Junior CALVET
 *Étudiant à l’UQAC – Baccalauréat en informatique, science des données et intelligence des affaires
 Cours : 8IAR403 – Apprentissage automatique
 Enseignant : Pr. Abdenour Bouzouane
